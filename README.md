@@ -1,3 +1,3 @@
 # Introduction to Data Science  
 
-There are 3 amazing assignments.
+There are 5 amazing assignments, and a real-world project.
